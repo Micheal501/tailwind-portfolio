@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/input.css -o ./public/css/style.css --watch",
-    "build": "npm run build"
+    "dev": "npx tailwindcss -i ./src/input.css -o ./public/css/style.css --watch"
   },
   "dependencies": {
     "tailwindcss": "^3.4.0"
